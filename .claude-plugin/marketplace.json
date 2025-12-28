@@ -1,0 +1,14 @@
+{
+  "name": "per-arnengs-tools",
+  "owner": {
+    "name": "Per Arneng",
+    "email": "per.arneng@guessmydomain.com"
+  },
+  "plugins": [
+    {
+      "name": "per-coder",
+      "source": "./plugins/per-coder",
+      "description": "Claude add-ons that Per uses for daily work as a developer"
+    }
+  ]
+}
