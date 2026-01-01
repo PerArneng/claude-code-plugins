@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "per-coder",
-      "source": "./plugins/per-coder",
+      "name": "p3r",
+      "source": "./plugins/p3r",
       "description": "Claude add-ons that Per uses for daily work as a developer"
     }
   ]
