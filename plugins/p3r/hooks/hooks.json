@@ -1,0 +1,16 @@
+{
+  "description": "Hooks for p3r",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash ${CLAUDE_PLUGIN_ROOT}/scripts/stop-speak.sh",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}
